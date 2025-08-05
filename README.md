@@ -8,8 +8,8 @@ This Power BI project presents a 6-month analysis of sales data from a fictional
 
 👶 Kids and Baby
 
-Pages Included
-Overview
+# Pages Included
+. Overview
 
 Combined view of all categories
 
@@ -19,7 +19,7 @@ Charts: Bill Total by Category, Weekly Trends
 
 Date slicer for dynamic filtering
 
-Men Fashion Analysis
+. Men Fashion Analysis
 
 Filtered to only Men Fashion data
 
@@ -27,7 +27,7 @@ Sales trend by week, top products, and bill type breakdown
 
 🔸 Unique Chart: 100% Stacked Column for Bill Type
 
-Beauty and Grooming Analysis
+. Beauty and Grooming Analysis
 
 Insights for Beauty & Grooming category
 
@@ -35,13 +35,13 @@ Monthly performance, product sales, customer trends
 
 🔸 Unique Chart: Scatter chart for Discount vs. Bill Total
 
-Kids and Baby Analysis
+. Kids and Baby Analysis
 
 Focus on Kids & Baby products
 
 Daily sales, product performance, and order trends
 
- Data Model
+ # Data Model
 Integrated with a custom Calendar table
 
 Added:
